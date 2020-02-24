@@ -1,0 +1,7 @@
+D:\Lib\Projects\Семестр1\C#\01. Intro\01. Intro\bin\Debug\_01.Intro.exe.config
+D:\Lib\Projects\Семестр1\C#\01. Intro\01. Intro\bin\Debug\_01.Intro.exe
+D:\Lib\Projects\Семестр1\C#\01. Intro\01. Intro\bin\Debug\_01.Intro.pdb
+D:\Lib\Projects\Семестр1\C#\01. Intro\01. Intro\obj\Debug\01. Intro.csprojAssemblyReference.cache
+D:\Lib\Projects\Семестр1\C#\01. Intro\01. Intro\obj\Debug\01. Intro.csproj.CoreCompileInputs.cache
+D:\Lib\Projects\Семестр1\C#\01. Intro\01. Intro\obj\Debug\_01.Intro.exe
+D:\Lib\Projects\Семестр1\C#\01. Intro\01. Intro\obj\Debug\_01.Intro.pdb
