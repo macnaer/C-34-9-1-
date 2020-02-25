@@ -5,3 +5,10 @@ D:\Lib\Projects\Семестр1\C#\02. Arrays\02. Arrays\obj\Debug\02. Arrays.cs
 D:\Lib\Projects\Семестр1\C#\02. Arrays\02. Arrays\obj\Debug\02. Arrays.csproj.CoreCompileInputs.cache
 D:\Lib\Projects\Семестр1\C#\02. Arrays\02. Arrays\obj\Debug\_02.Arrays.exe
 D:\Lib\Projects\Семестр1\C#\02. Arrays\02. Arrays\obj\Debug\_02.Arrays.pdb
+D:\Lib\Projects\C#\02. Arrays\02. Arrays\bin\Debug\_02.Arrays.exe.config
+D:\Lib\Projects\C#\02. Arrays\02. Arrays\bin\Debug\_02.Arrays.exe
+D:\Lib\Projects\C#\02. Arrays\02. Arrays\bin\Debug\_02.Arrays.pdb
+D:\Lib\Projects\C#\02. Arrays\02. Arrays\obj\Debug\02. Arrays.csprojAssemblyReference.cache
+D:\Lib\Projects\C#\02. Arrays\02. Arrays\obj\Debug\02. Arrays.csproj.CoreCompileInputs.cache
+D:\Lib\Projects\C#\02. Arrays\02. Arrays\obj\Debug\_02.Arrays.exe
+D:\Lib\Projects\C#\02. Arrays\02. Arrays\obj\Debug\_02.Arrays.pdb

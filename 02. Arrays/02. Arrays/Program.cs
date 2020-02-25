@@ -65,6 +65,9 @@ namespace _02.Arrays
             {
                 Console.WriteLine(value);
             }
+            Console.WriteLine("========================================>");
+            list.Insert(2, 100500);
+            Console.WriteLine(list[2]);
             #endregion
         }
     }
