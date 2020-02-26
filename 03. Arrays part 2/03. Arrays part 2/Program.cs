@@ -10,8 +10,8 @@ namespace _03.Arrays_part_2
     {
         static void Main(string[] args)
         {
-            //#region
-            ////1
+            #region
+            //1
             //int[,] array = new int[3, 3];
 
             //array[0, 0] = 1;
@@ -26,6 +26,7 @@ namespace _03.Arrays_part_2
             //array[2, 1] = 8;
             //array[2, 2] = 9;
 
+            //Console.Write("\n");
             //Console.Write(array[0, 0]);
             //Console.Write(array[0, 1]);
             //Console.Write(array[0, 2]);
@@ -37,8 +38,9 @@ namespace _03.Arrays_part_2
             //Console.Write(array[2, 0]);
             //Console.Write(array[2, 1]);
             //Console.Write(array[2, 2]);
+            //Console.Write("\n");
 
-            ////2            
+            //2            
             //int[,] array2 = new int[3, 3];
 
 
@@ -85,9 +87,9 @@ namespace _03.Arrays_part_2
             //    Console.Write("\n");
             //}
 
-            //Console.WriteLine("===================================================>>>");
-            //#endregion
-            //#region
+            Console.WriteLine("===================================================>>>");
+            #endregion
+            #region
             ////1
             //int[,,] array = new int[3, 3, 3];
 
@@ -144,8 +146,16 @@ namespace _03.Arrays_part_2
             //        { 4, 5, 6 },
             //        { 7, 8, 9 }
             //    },
-            //   { { 1, 2, 3 }, { 4, 5, 6 }, {7, 8, 9} },
-            //   { { 1, 2, 3 }, { 4, 5, 6 }, {7, 8, 9} }
+            //   { 
+            //        { 1, 2, 3 }, 
+            //        { 4, 5, 6 }, 
+            //        { 7, 8, 9 }
+            //    },
+            //   { 
+            //        { 1, 2, 3 }, 
+            //        { 4, 5, 6 }, 
+            //        { 7, 8, 9 }
+            //    }
             //};
 
 
@@ -161,7 +171,7 @@ namespace _03.Arrays_part_2
             //    }
             //    Console.Write("\n");
             //}
-            //#endregion
+            #endregion
             //#region
             //int[,,,] array2 =
             //{
@@ -193,7 +203,7 @@ namespace _03.Arrays_part_2
             //    Console.Write("\n");
             //}
             //#endregion
-            //#region
+            #region
             //// зубчастий масив
             //int[][] jagged = new int[3][];
 
@@ -201,14 +211,14 @@ namespace _03.Arrays_part_2
             //jagged[1] = new int[] { 1, 2, 3, 4, 5 };
             //jagged[2] = new int[] { 1, 2, 3 };
 
-            //Console.WriteLine(jagged.Length);
+            //Console.WriteLine($"Length:  {jagged.Length}");
 
 
             //for (int i = 0; i < jagged.Length; ++i)
             //{
             //    for (int j = 0; j < jagged[i].Length; ++j)
             //    {
-            //        Console.Write($"{{{i};{j}}}={     jagged[i][j]     }");
+            //        Console.Write($"{{{i};{j}}}={     jagged[i][j]     }\n");
             //    }
             //    Console.Write("\n");
             //}
@@ -221,23 +231,54 @@ namespace _03.Arrays_part_2
             //    {
             //        Console.Write(i + " - ");
             //    }
+            //    Console.WriteLine("\n");
             //}
-            //#endregion
-            #region
+            #endregion
+            //#region
             var person = new Dictionary<int, string>()
             {
                 { 1, "Alice"},
                 { 2, "Bob"},
-                { 3, "Eva"}
+                { 6, "Melory"},
+                { 9, "Ronald"},
+                { 3, "Jacob"}
             };
 
-            person.Add(4, "Bill");
+            person.Add(5, "Bill");
             foreach (var item in person)
             {
-                Console.WriteLine(item);
+                //Console.WriteLine(item);
                 Console.WriteLine($"Name:{item.Value}");
             }
-            #endregion
+            foreach (var key in person.Keys)
+            {
+                Console.WriteLine(key);
+            }
+            person.Remove(3);
+            Console.WriteLine("=======================================>>>");
+             foreach (var item in person)
+            {
+                //Console.WriteLine(item);
+                Console.WriteLine($"Name:{item.Value}");
+            }
+            foreach (var key in person.Keys)
+            {
+                Console.WriteLine(key);
+            }
+
+            
+            foreach (KeyValuePair<int, string> keyValue in person)
+            {
+                Console.WriteLine(keyValue.Key + " - " + keyValue.Value);
+            }
+            Console.WriteLine("Before ++++++++++++++++++++++++++++++++++++");
+            person.OrderBy(key => key.Value);
+            foreach (KeyValuePair<int, string> keyValue in person)
+            {
+                Console.WriteLine(keyValue.Key + " - " + keyValue.Value);
+            }
+            Console.WriteLine("After ++++++++++++++++++++++++++++++++++++");
+            //#endregion
         }
     }
 }

@@ -5,3 +5,10 @@ D:\Lib\Projects\Семестр1\C#\03. Arrays part 2\03. Arrays part 2\obj\Debug
 D:\Lib\Projects\Семестр1\C#\03. Arrays part 2\03. Arrays part 2\obj\Debug\03. Arrays part 2.csproj.CoreCompileInputs.cache
 D:\Lib\Projects\Семестр1\C#\03. Arrays part 2\03. Arrays part 2\obj\Debug\_03.Arrays_part_2.exe
 D:\Lib\Projects\Семестр1\C#\03. Arrays part 2\03. Arrays part 2\obj\Debug\_03.Arrays_part_2.pdb
+C:\Users\master\Desktop\C#\03. Arrays part 2\03. Arrays part 2\bin\Debug\_03.Arrays_part_2.exe.config
+C:\Users\master\Desktop\C#\03. Arrays part 2\03. Arrays part 2\bin\Debug\_03.Arrays_part_2.exe
+C:\Users\master\Desktop\C#\03. Arrays part 2\03. Arrays part 2\bin\Debug\_03.Arrays_part_2.pdb
+C:\Users\master\Desktop\C#\03. Arrays part 2\03. Arrays part 2\obj\Debug\03. Arrays part 2.csprojAssemblyReference.cache
+C:\Users\master\Desktop\C#\03. Arrays part 2\03. Arrays part 2\obj\Debug\03. Arrays part 2.csproj.CoreCompileInputs.cache
+C:\Users\master\Desktop\C#\03. Arrays part 2\03. Arrays part 2\obj\Debug\_03.Arrays_part_2.exe
+C:\Users\master\Desktop\C#\03. Arrays part 2\03. Arrays part 2\obj\Debug\_03.Arrays_part_2.pdb
