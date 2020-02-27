@@ -1,0 +1,7 @@
+D:\Lib\Projects\Семестр1\C#\04. String\04. String\bin\Debug\_04.String.exe.config
+D:\Lib\Projects\Семестр1\C#\04. String\04. String\bin\Debug\_04.String.exe
+D:\Lib\Projects\Семестр1\C#\04. String\04. String\bin\Debug\_04.String.pdb
+D:\Lib\Projects\Семестр1\C#\04. String\04. String\obj\Debug\04. String.csprojAssemblyReference.cache
+D:\Lib\Projects\Семестр1\C#\04. String\04. String\obj\Debug\04. String.csproj.CoreCompileInputs.cache
+D:\Lib\Projects\Семестр1\C#\04. String\04. String\obj\Debug\_04.String.exe
+D:\Lib\Projects\Семестр1\C#\04. String\04. String\obj\Debug\_04.String.pdb
