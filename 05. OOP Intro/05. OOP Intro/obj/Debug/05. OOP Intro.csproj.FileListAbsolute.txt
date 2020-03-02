@@ -1,0 +1,14 @@
+D:\Lib\Projects\Семестр1\C#\05. OOP Intro\05. OOP Intro\bin\Debug\_05.OOP_Intro.exe.config
+D:\Lib\Projects\Семестр1\C#\05. OOP Intro\05. OOP Intro\bin\Debug\_05.OOP_Intro.exe
+D:\Lib\Projects\Семестр1\C#\05. OOP Intro\05. OOP Intro\bin\Debug\_05.OOP_Intro.pdb
+D:\Lib\Projects\Семестр1\C#\05. OOP Intro\05. OOP Intro\obj\Debug\05. OOP Intro.csprojAssemblyReference.cache
+D:\Lib\Projects\Семестр1\C#\05. OOP Intro\05. OOP Intro\obj\Debug\05. OOP Intro.csproj.CoreCompileInputs.cache
+D:\Lib\Projects\Семестр1\C#\05. OOP Intro\05. OOP Intro\obj\Debug\_05.OOP_Intro.exe
+D:\Lib\Projects\Семестр1\C#\05. OOP Intro\05. OOP Intro\obj\Debug\_05.OOP_Intro.pdb
+D:\Lib\Projects\C#\05. OOP Intro\05. OOP Intro\obj\Debug\05. OOP Intro.csprojAssemblyReference.cache
+D:\Lib\Projects\C#\05. OOP Intro\05. OOP Intro\obj\Debug\05. OOP Intro.csproj.CoreCompileInputs.cache
+D:\Lib\Projects\C#\05. OOP Intro\05. OOP Intro\obj\Debug\_05.OOP_Intro.exe
+D:\Lib\Projects\C#\05. OOP Intro\05. OOP Intro\obj\Debug\_05.OOP_Intro.pdb
+D:\Lib\Projects\C#\05. OOP Intro\05. OOP Intro\bin\Debug\_05.OOP_Intro.exe.config
+D:\Lib\Projects\C#\05. OOP Intro\05. OOP Intro\bin\Debug\_05.OOP_Intro.exe
+D:\Lib\Projects\C#\05. OOP Intro\05. OOP Intro\bin\Debug\_05.OOP_Intro.pdb
