@@ -1,0 +1,6 @@
+C:\Users\master\Desktop\C#\06. OOP Part 2\Test\bin\Debug\Test.exe.config
+C:\Users\master\Desktop\C#\06. OOP Part 2\Test\bin\Debug\Test.exe
+C:\Users\master\Desktop\C#\06. OOP Part 2\Test\bin\Debug\Test.pdb
+C:\Users\master\Desktop\C#\06. OOP Part 2\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\master\Desktop\C#\06. OOP Part 2\Test\obj\Debug\Test.exe
+C:\Users\master\Desktop\C#\06. OOP Part 2\Test\obj\Debug\Test.pdb

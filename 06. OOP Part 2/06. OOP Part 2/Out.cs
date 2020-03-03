@@ -6,15 +6,20 @@ using System.Threading.Tasks;
 
 namespace _06.OOP_Part_2
 {
-    class TestClass
+    class Out
     {
         private double mark;
         public string Name { get; set; }
         public string Surname { get; set; }
 
-        public void SetMark(ref double m)
+        public void SetMark(double mark)
         {
-            this.mark = m;
+            this.mark = mark;
+        }
+
+        public void Sum(int x, int y, out int a)
+        {
+            a = x + y;
         }
 
 

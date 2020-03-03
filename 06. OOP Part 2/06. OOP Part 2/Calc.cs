@@ -8,9 +8,9 @@ namespace _06.OOP_Part_2
 {
     static class Calc
     {
-        public static int Plus(int a, int b)
+        public static void Plus(int a, int b, out int sum)
         {
-            return a + b;
+            sum = a + b;
         }
 
         public static int Minus(int a, int b)
