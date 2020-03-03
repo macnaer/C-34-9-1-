@@ -1,0 +1,7 @@
+D:\Lib\Projects\Семестр1\C#\06. OOP Part 2\06. OOP Part 2\bin\Debug\_06.OOP_Part_2.exe.config
+D:\Lib\Projects\Семестр1\C#\06. OOP Part 2\06. OOP Part 2\bin\Debug\_06.OOP_Part_2.exe
+D:\Lib\Projects\Семестр1\C#\06. OOP Part 2\06. OOP Part 2\bin\Debug\_06.OOP_Part_2.pdb
+D:\Lib\Projects\Семестр1\C#\06. OOP Part 2\06. OOP Part 2\obj\Debug\06. OOP Part 2.csprojAssemblyReference.cache
+D:\Lib\Projects\Семестр1\C#\06. OOP Part 2\06. OOP Part 2\obj\Debug\06. OOP Part 2.csproj.CoreCompileInputs.cache
+D:\Lib\Projects\Семестр1\C#\06. OOP Part 2\06. OOP Part 2\obj\Debug\_06.OOP_Part_2.exe
+D:\Lib\Projects\Семестр1\C#\06. OOP Part 2\06. OOP Part 2\obj\Debug\_06.OOP_Part_2.pdb
