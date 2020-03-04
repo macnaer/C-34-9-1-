@@ -1,0 +1,7 @@
+D:\Lib\Projects\Семестр1\C#\07. OOP Part 3\07. OOP Part 3\bin\Debug\_07.OOP_Part_3.exe.config
+D:\Lib\Projects\Семестр1\C#\07. OOP Part 3\07. OOP Part 3\bin\Debug\_07.OOP_Part_3.exe
+D:\Lib\Projects\Семестр1\C#\07. OOP Part 3\07. OOP Part 3\bin\Debug\_07.OOP_Part_3.pdb
+D:\Lib\Projects\Семестр1\C#\07. OOP Part 3\07. OOP Part 3\obj\Debug\07. OOP Part 3.csprojAssemblyReference.cache
+D:\Lib\Projects\Семестр1\C#\07. OOP Part 3\07. OOP Part 3\obj\Debug\07. OOP Part 3.csproj.CoreCompileInputs.cache
+D:\Lib\Projects\Семестр1\C#\07. OOP Part 3\07. OOP Part 3\obj\Debug\_07.OOP_Part_3.exe
+D:\Lib\Projects\Семестр1\C#\07. OOP Part 3\07. OOP Part 3\obj\Debug\_07.OOP_Part_3.pdb
