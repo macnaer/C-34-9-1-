@@ -1,0 +1,7 @@
+D:\Lib\Projects\Семестр1\C#\09. Exeptions\09. Exeptions\bin\Debug\_09.Exeptions.exe.config
+D:\Lib\Projects\Семестр1\C#\09. Exeptions\09. Exeptions\bin\Debug\_09.Exeptions.exe
+D:\Lib\Projects\Семестр1\C#\09. Exeptions\09. Exeptions\bin\Debug\_09.Exeptions.pdb
+D:\Lib\Projects\Семестр1\C#\09. Exeptions\09. Exeptions\obj\Debug\09. Exeptions.csprojAssemblyReference.cache
+D:\Lib\Projects\Семестр1\C#\09. Exeptions\09. Exeptions\obj\Debug\09. Exeptions.csproj.CoreCompileInputs.cache
+D:\Lib\Projects\Семестр1\C#\09. Exeptions\09. Exeptions\obj\Debug\_09.Exeptions.exe
+D:\Lib\Projects\Семестр1\C#\09. Exeptions\09. Exeptions\obj\Debug\_09.Exeptions.pdb
