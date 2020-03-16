@@ -1,0 +1,7 @@
+D:\Lib\Projects\Семестр1\C#\10. Boxing Unboxing\10. Boxing Unboxing\bin\Debug\_10.Boxing_Unboxing.exe.config
+D:\Lib\Projects\Семестр1\C#\10. Boxing Unboxing\10. Boxing Unboxing\bin\Debug\_10.Boxing_Unboxing.exe
+D:\Lib\Projects\Семестр1\C#\10. Boxing Unboxing\10. Boxing Unboxing\bin\Debug\_10.Boxing_Unboxing.pdb
+D:\Lib\Projects\Семестр1\C#\10. Boxing Unboxing\10. Boxing Unboxing\obj\Debug\10. Boxing Unboxing.csprojAssemblyReference.cache
+D:\Lib\Projects\Семестр1\C#\10. Boxing Unboxing\10. Boxing Unboxing\obj\Debug\10. Boxing Unboxing.csproj.CoreCompileInputs.cache
+D:\Lib\Projects\Семестр1\C#\10. Boxing Unboxing\10. Boxing Unboxing\obj\Debug\_10.Boxing_Unboxing.exe
+D:\Lib\Projects\Семестр1\C#\10. Boxing Unboxing\10. Boxing Unboxing\obj\Debug\_10.Boxing_Unboxing.pdb

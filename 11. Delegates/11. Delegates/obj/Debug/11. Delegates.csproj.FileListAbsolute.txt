@@ -1,0 +1,7 @@
+D:\Lib\Projects\Семестр1\C#\11. Delegates\11. Delegates\bin\Debug\_11.Delegates.exe.config
+D:\Lib\Projects\Семестр1\C#\11. Delegates\11. Delegates\bin\Debug\_11.Delegates.exe
+D:\Lib\Projects\Семестр1\C#\11. Delegates\11. Delegates\bin\Debug\_11.Delegates.pdb
+D:\Lib\Projects\Семестр1\C#\11. Delegates\11. Delegates\obj\Debug\11. Delegates.csprojAssemblyReference.cache
+D:\Lib\Projects\Семестр1\C#\11. Delegates\11. Delegates\obj\Debug\11. Delegates.csproj.CoreCompileInputs.cache
+D:\Lib\Projects\Семестр1\C#\11. Delegates\11. Delegates\obj\Debug\_11.Delegates.exe
+D:\Lib\Projects\Семестр1\C#\11. Delegates\11. Delegates\obj\Debug\_11.Delegates.pdb
