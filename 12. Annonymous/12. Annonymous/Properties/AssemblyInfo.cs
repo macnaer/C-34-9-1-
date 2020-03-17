@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("11. Delegates")]
+[assembly: AssemblyTitle("12. Annonymous")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("11. Delegates")]
+[assembly: AssemblyProduct("12. Annonymous")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("161ec29e-d59f-4c87-838a-9dad254b4a98")]
+[assembly: Guid("9d2e9c86-39a1-47e9-bffd-fd5fa043e7fd")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //

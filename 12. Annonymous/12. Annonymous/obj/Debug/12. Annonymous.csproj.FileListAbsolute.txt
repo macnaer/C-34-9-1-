@@ -1,0 +1,7 @@
+C:\Users\macnaer\source\repos\12. Annonymous\12. Annonymous\bin\Debug\_12.Annonymous.exe.config
+C:\Users\macnaer\source\repos\12. Annonymous\12. Annonymous\bin\Debug\_12.Annonymous.exe
+C:\Users\macnaer\source\repos\12. Annonymous\12. Annonymous\bin\Debug\_12.Annonymous.pdb
+C:\Users\macnaer\source\repos\12. Annonymous\12. Annonymous\obj\Debug\12. Annonymous.csprojAssemblyReference.cache
+C:\Users\macnaer\source\repos\12. Annonymous\12. Annonymous\obj\Debug\12. Annonymous.csproj.CoreCompileInputs.cache
+C:\Users\macnaer\source\repos\12. Annonymous\12. Annonymous\obj\Debug\_12.Annonymous.exe
+C:\Users\macnaer\source\repos\12. Annonymous\12. Annonymous\obj\Debug\_12.Annonymous.pdb

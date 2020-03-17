@@ -10,33 +10,44 @@ namespace _11.Delegates
     {
         int speed = 0;
 
-        public delegate void TooFast();
+        //public event Callback ToFastEvent;
+        public event Action<int> ToFastEvent;
+        //public delegate void Callback();
 
-        private TooFast tooFast;
+        //private Callback tooFast;
 
-        public void RegisterOnTooFast(TooFast toofast)
-        {
-            this.tooFast = toofast;
-        }
+        //public void RegisterOnTooFast(Callback tooFast)
+        //{
+        //    this.tooFast = tooFast;
+        //}
 
         public void Start()
         {
-            speed = 10;
+            Console.WriteLine("Started...");
+            this.speed = 10;
         }
 
         public void Accelerate()
         {
+            Console.WriteLine($"Current speed = {this.speed}");
             this.speed += 10;
-            Console.WriteLine($"Current speed {this.speed}");
-            if (speed > 40)
+            if (this.speed > 60)
             {
-                tooFast();
+                Console.WriteLine("Too fast inside if");
+                ToFastEvent(speed);
             }
         }
 
-        public void Stop()
+        public void Stop(int speed)
         {
-            this.speed = 0;
+            this.speed = speed;
+            Console.WriteLine($"After full stop {this.speed}");
+        }
+
+        public void Break(int speed)
+        {
+            this.speed -= speed;
+            Console.WriteLine($"After break stop {this.speed}");
         }
     }
 }
