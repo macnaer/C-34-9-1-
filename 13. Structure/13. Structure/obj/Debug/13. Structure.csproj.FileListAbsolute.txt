@@ -1,0 +1,6 @@
+C:\Users\macnaer\Desktop\C#\13. Structure\13. Structure\bin\Debug\_13.Structure.exe.config
+C:\Users\macnaer\Desktop\C#\13. Structure\13. Structure\bin\Debug\_13.Structure.exe
+C:\Users\macnaer\Desktop\C#\13. Structure\13. Structure\bin\Debug\_13.Structure.pdb
+C:\Users\macnaer\Desktop\C#\13. Structure\13. Structure\obj\Debug\13. Structure.csproj.CoreCompileInputs.cache
+C:\Users\macnaer\Desktop\C#\13. Structure\13. Structure\obj\Debug\_13.Structure.exe
+C:\Users\macnaer\Desktop\C#\13. Structure\13. Structure\obj\Debug\_13.Structure.pdb
