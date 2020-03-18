@@ -13,8 +13,13 @@ namespace _13.Structure
             Book clr = new Book("C# Deep dive", "Andrew Troelson", 999, "Best book for true programmers", 2019);
             Book cpp = new Book("C++ OOP", "Bjorn Straustrup", 1299, "Best book for geeks", 2015);
             Book js = new Book("JavaScript Ninja", "Nikolas Zakos", 850, "For true javascriptisers", 2018);
+
+            List<Book> bookList = new List<Book>();
+            bookList.Add(clr);
+            bookList.Add(js);
+
             //clr.ShowBook();
-            Client bill = new Client("Bill", 48, clr);
+            Client bill = new Client("Bill", 48, bookList);
             //bill.myBooks.ShowBook();
             Client adam = new Librarian("Adam", 56, js, "administrator");
             List<Client> clients = new List<Client>();
