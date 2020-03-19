@@ -1,0 +1,7 @@
+C:\Users\macnaer\Desktop\C#\14. Indexes\14. Indexes\bin\Debug\_14.Indexes.exe.config
+C:\Users\macnaer\Desktop\C#\14. Indexes\14. Indexes\bin\Debug\_14.Indexes.exe
+C:\Users\macnaer\Desktop\C#\14. Indexes\14. Indexes\bin\Debug\_14.Indexes.pdb
+C:\Users\macnaer\Desktop\C#\14. Indexes\14. Indexes\obj\Debug\14. Indexes.csprojAssemblyReference.cache
+C:\Users\macnaer\Desktop\C#\14. Indexes\14. Indexes\obj\Debug\14. Indexes.csproj.CoreCompileInputs.cache
+C:\Users\macnaer\Desktop\C#\14. Indexes\14. Indexes\obj\Debug\_14.Indexes.exe
+C:\Users\macnaer\Desktop\C#\14. Indexes\14. Indexes\obj\Debug\_14.Indexes.pdb
