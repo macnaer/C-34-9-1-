@@ -1,0 +1,7 @@
+C:\Users\macnaer\Desktop\C#\15. Generic. Collections\15. Generic. Collections\bin\Debug\_15.Generic.Collections.exe.config
+C:\Users\macnaer\Desktop\C#\15. Generic. Collections\15. Generic. Collections\bin\Debug\_15.Generic.Collections.exe
+C:\Users\macnaer\Desktop\C#\15. Generic. Collections\15. Generic. Collections\bin\Debug\_15.Generic.Collections.pdb
+C:\Users\macnaer\Desktop\C#\15. Generic. Collections\15. Generic. Collections\obj\Debug\15. Generic. Collections.csprojAssemblyReference.cache
+C:\Users\macnaer\Desktop\C#\15. Generic. Collections\15. Generic. Collections\obj\Debug\15. Generic. Collections.csproj.CoreCompileInputs.cache
+C:\Users\macnaer\Desktop\C#\15. Generic. Collections\15. Generic. Collections\obj\Debug\_15.Generic.Collections.exe
+C:\Users\macnaer\Desktop\C#\15. Generic. Collections\15. Generic. Collections\obj\Debug\_15.Generic.Collections.pdb
