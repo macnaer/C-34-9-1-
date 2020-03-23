@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace _15.Generic.Collections
 {
-    class PaymentService<W, T>
+    class PaymentService<W, T, WF, WS>
         //where W : class
-        where W : Wallet<string, int>
+        where W : Wallet<WF, WS>
     {
         public W FromWallet { get; set; }
         public W ToWallet { get; set; }
@@ -17,6 +17,8 @@ namespace _15.Generic.Collections
 
         public void MakePayment()
         {
+            FromWallet.ShowBalance();
+            ToWallet.ShowBalance();
             Console.WriteLine($"From Wallet {this.FromWallet.WolletNumber}\nTo Wallet {this.ToWallet.WolletNumber}\nTransaction {this.Transaction}\nSum {this.Sum}");
         }
     }
