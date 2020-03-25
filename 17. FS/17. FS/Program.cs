@@ -138,6 +138,33 @@ namespace _17.FS
             //{
             //    Console.WriteLine(ex.Message);
             //}
+
+            string[] str = { "Green", "Red", "Test", "Four" };
+
+            string path = @"D:\Folder\db.dat";
+            try { 
+                using (BinaryWriter bw = new BinaryWriter(File.Open(path, FileMode.OpenOrCreate)))
+                {
+                    foreach (string item in str)
+                    {
+                        Console.WriteLine("bw item => {0}", item);
+                        bw.Write(item);
+                    }
+                }
+
+                using (BinaryReader br = new BinaryReader(File.Open(path, FileMode.Open)))
+                {
+                    while (br.PeekChar() > 1)
+                    {
+                        string colors = br.ReadString();
+                        Console.WriteLine(colors);
+                    }
+                }
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
     }
 }
