@@ -1,0 +1,7 @@
+C:\Users\macnaer\Desktop\C#\17. FS\17. FS\bin\Debug\_17.FS.exe.config
+C:\Users\macnaer\Desktop\C#\17. FS\17. FS\bin\Debug\_17.FS.exe
+C:\Users\macnaer\Desktop\C#\17. FS\17. FS\bin\Debug\_17.FS.pdb
+C:\Users\macnaer\Desktop\C#\17. FS\17. FS\obj\Debug\17. FS.csprojAssemblyReference.cache
+C:\Users\macnaer\Desktop\C#\17. FS\17. FS\obj\Debug\17. FS.csproj.CoreCompileInputs.cache
+C:\Users\macnaer\Desktop\C#\17. FS\17. FS\obj\Debug\_17.FS.exe
+C:\Users\macnaer\Desktop\C#\17. FS\17. FS\obj\Debug\_17.FS.pdb

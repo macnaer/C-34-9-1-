@@ -1,0 +1,7 @@
+C:\Users\macnaer\Desktop\C#\16. IEnumerable GC\16. IEnumerable GC\bin\Debug\_16.IEnumerable_GC.exe.config
+C:\Users\macnaer\Desktop\C#\16. IEnumerable GC\16. IEnumerable GC\bin\Debug\_16.IEnumerable_GC.exe
+C:\Users\macnaer\Desktop\C#\16. IEnumerable GC\16. IEnumerable GC\bin\Debug\_16.IEnumerable_GC.pdb
+C:\Users\macnaer\Desktop\C#\16. IEnumerable GC\16. IEnumerable GC\obj\Debug\16. IEnumerable GC.csprojAssemblyReference.cache
+C:\Users\macnaer\Desktop\C#\16. IEnumerable GC\16. IEnumerable GC\obj\Debug\16. IEnumerable GC.csproj.CoreCompileInputs.cache
+C:\Users\macnaer\Desktop\C#\16. IEnumerable GC\16. IEnumerable GC\obj\Debug\_16.IEnumerable_GC.exe
+C:\Users\macnaer\Desktop\C#\16. IEnumerable GC\16. IEnumerable GC\obj\Debug\_16.IEnumerable_GC.pdb
