@@ -1,0 +1,7 @@
+C:\Users\macnaer\Desktop\C#\18. XML\18. XML\bin\Debug\_18.XML.exe.config
+C:\Users\macnaer\Desktop\C#\18. XML\18. XML\bin\Debug\_18.XML.exe
+C:\Users\macnaer\Desktop\C#\18. XML\18. XML\bin\Debug\_18.XML.pdb
+C:\Users\macnaer\Desktop\C#\18. XML\18. XML\obj\Debug\18. XML.csprojAssemblyReference.cache
+C:\Users\macnaer\Desktop\C#\18. XML\18. XML\obj\Debug\18. XML.csproj.CoreCompileInputs.cache
+C:\Users\macnaer\Desktop\C#\18. XML\18. XML\obj\Debug\_18.XML.exe
+C:\Users\macnaer\Desktop\C#\18. XML\18. XML\obj\Debug\_18.XML.pdb
