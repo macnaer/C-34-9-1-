@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="Students">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="Student" minOccurs="1" maxOccurs="4">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="Name" maxOccurs="1" />
+              <xsd:element name="Gender" maxOccurs="1" />
+              <xsd:element name="Marks" maxOccurs="1" />
+            </xsd:sequence>
+          </xsd:complexType>
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+</xsd:schema>
