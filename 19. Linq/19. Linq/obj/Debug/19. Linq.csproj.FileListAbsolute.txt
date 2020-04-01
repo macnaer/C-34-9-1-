@@ -1,0 +1,7 @@
+C:\Users\macnaer\Desktop\C#\19. Linq\19. Linq\obj\Debug\19. Linq.csprojAssemblyReference.cache
+C:\Users\macnaer\Desktop\C#\19. Linq\19. Linq\obj\Debug\19. Linq.csproj.CoreCompileInputs.cache
+C:\Users\macnaer\Desktop\C#\19. Linq\19. Linq\bin\Debug\_19.Linq.exe.config
+C:\Users\macnaer\Desktop\C#\19. Linq\19. Linq\bin\Debug\_19.Linq.exe
+C:\Users\macnaer\Desktop\C#\19. Linq\19. Linq\bin\Debug\_19.Linq.pdb
+C:\Users\macnaer\Desktop\C#\19. Linq\19. Linq\obj\Debug\_19.Linq.exe
+C:\Users\macnaer\Desktop\C#\19. Linq\19. Linq\obj\Debug\_19.Linq.pdb

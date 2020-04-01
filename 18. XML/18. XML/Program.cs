@@ -94,26 +94,27 @@ namespace _18.XML
             //    ));
             //result.Save(@"D:\Folder\index.html");
 
-            //XmlSchemaSet schema = new XmlSchemaSet();
-            //string schemaPath = @"C:\Users\macnaer\Desktop\C#\18. XML\18. XML\Student.xsd";
-            //schema.Add("", schemaPath);
-            //XDocument xmlDocument = XDocument.Load(path);
+            XmlSchemaSet schema = new XmlSchemaSet();
+            string schemaPath = @"C:\Users\macnaer\Desktop\C#\18. XML\18. XML\Student.xsd";
+            schema.Add("", schemaPath);
+            XDocument xmlDocument = XDocument.Load(path);
 
-            //bool valid = false;
+            bool valid = false;
 
-            //xmlDocument.Validate(schema, (s, e) =>{
-            //    Console.WriteLine(e.Message);
-            //    valid = true;
-            //});
+            xmlDocument.Validate(schema, (s, e) =>
+            {
+                Console.WriteLine(e.Message);
+                valid = true;
+            });
 
-            //if (!valid)
-            //{
-            //    Console.WriteLine("Validation success!");
-            //}
-            //else
-            //{
-            //    Console.WriteLine("Validation failed!");
-            //}
+            if (!valid)
+            {
+                Console.WriteLine("Validation success!");
+            }
+            else
+            {
+                Console.WriteLine("Validation failed!");
+            }
 
             // Lambda
             //Func<int, int> square = x => x * x;
@@ -126,19 +127,19 @@ namespace _18.XML
             //Console.WriteLine(string.Join(" ", squaredNumbers));
 
             // Specify the data source.
-            int[] scores = new int[] { 97, 92, 81, 60 };
+            //int[] scores = new int[] { 97, 92, 81, 60 };
 
-            // Define the query expression.
-            IEnumerable<int> scoreQuery =
-                from score in scores
-                where score > 80
-                select score;
+            //// Define the query expression.
+            //IEnumerable<int> scoreQuery =
+            //    from score in scores
+            //    where score > 80
+            //    select score;
 
-            // Execute the query.
-            foreach (int i in scoreQuery)
-            {
-                Console.WriteLine(i + " ");
-            }
+            //// Execute the query.
+            //foreach (int i in scoreQuery)
+            //{
+            //    Console.WriteLine(i + " ");
+            //}
         } 
     }
 }

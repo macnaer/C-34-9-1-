@@ -1,0 +1,11 @@
+C:\Users\macnaer\Desktop\C#\20. Serialize_NLog\20. Serialize_NLog\bin\Debug\NLog.config
+C:\Users\macnaer\Desktop\C#\20. Serialize_NLog\20. Serialize_NLog\bin\Debug\_20.Serialize_NLog.exe.config
+C:\Users\macnaer\Desktop\C#\20. Serialize_NLog\20. Serialize_NLog\bin\Debug\_20.Serialize_NLog.exe
+C:\Users\macnaer\Desktop\C#\20. Serialize_NLog\20. Serialize_NLog\bin\Debug\_20.Serialize_NLog.pdb
+C:\Users\macnaer\Desktop\C#\20. Serialize_NLog\20. Serialize_NLog\bin\Debug\NLog.dll
+C:\Users\macnaer\Desktop\C#\20. Serialize_NLog\20. Serialize_NLog\bin\Debug\NLog.xml
+C:\Users\macnaer\Desktop\C#\20. Serialize_NLog\20. Serialize_NLog\obj\Debug\20. Serialize_NLog.csprojAssemblyReference.cache
+C:\Users\macnaer\Desktop\C#\20. Serialize_NLog\20. Serialize_NLog\obj\Debug\20. Serialize_NLog.csproj.CoreCompileInputs.cache
+C:\Users\macnaer\Desktop\C#\20. Serialize_NLog\20. Serialize_NLog\obj\Debug\20. Serialize_NLog.csproj.CopyComplete
+C:\Users\macnaer\Desktop\C#\20. Serialize_NLog\20. Serialize_NLog\obj\Debug\_20.Serialize_NLog.exe
+C:\Users\macnaer\Desktop\C#\20. Serialize_NLog\20. Serialize_NLog\obj\Debug\_20.Serialize_NLog.pdb
