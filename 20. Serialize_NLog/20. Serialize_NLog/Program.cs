@@ -57,7 +57,7 @@ namespace _20.Serialize_NLog
             }
             catch (Exception ex)
             {
-                logger.Error(ex.Message);
+                logger.Debug(ex.Message);
                 Console.WriteLine(ex.Message);
             }
 

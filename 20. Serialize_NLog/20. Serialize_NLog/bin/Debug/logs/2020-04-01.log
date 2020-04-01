@@ -1,8 +1,2 @@
-2020-04-01 13:15:20.8087 ERROR Не удалось найти часть пути "C:\Users\macnaer\Desktop\C#\20. Serialize_NLog\20. Serialize_NLog\bin\Debug\D\Folder\Serial.dat".
-2020-04-01 13:15:20.8087 ERROR Не удалось найти часть пути "C:\Users\macnaer\Desktop\C#\20. Serialize_NLog\20. Serialize_NLog\bin\Debug\D\Folder\Serial.dat".
-2020-04-01 13:15:20.8087 ERROR Не удалось найти часть пути "C:\Users\macnaer\Desktop\C#\20. Serialize_NLog\20. Serialize_NLog\bin\Debug\D\Folder\Serial.dat".
-2020-04-01 13:15:20.8087 ERROR Не удалось найти часть пути "C:\Users\macnaer\Desktop\C#\20. Serialize_NLog\20. Serialize_NLog\bin\Debug\D\Folder\Serial.dat".
-2020-04-01 13:16:16.5959 INFO File D:\Folder\Serial.dat : Data _20.Serialize_NLog.Student
-2020-04-01 13:16:16.5959 INFO File D:\Folder\Serial.dat : Data _20.Serialize_NLog.Student
-2020-04-01 13:57:21.2968 INFO Retrived data from D:\Folder\Serial.dat
-2020-04-01 13:57:21.2968 INFO Retrived data from D:\Folder\Serial.dat
+2020-04-01 14:12:22.1548 INFO Retrived data from D:\Folder\Serial.dat
+2020-04-01 14:12:51.5321 DEBUG Не удалось найти часть пути "C:\Users\macnaer\Desktop\C#\20. Serialize_NLog\20. Serialize_NLog\bin\Debug\D\Folder\Serial.dat".
